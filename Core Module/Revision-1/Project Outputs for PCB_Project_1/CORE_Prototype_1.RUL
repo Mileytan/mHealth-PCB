@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\berna\OneDrive - University of Nebraska-Lincoln\UNL Classes\5-ECEN498\Project\PCB Files\PCB_Project_1\CORE_Prototype_1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

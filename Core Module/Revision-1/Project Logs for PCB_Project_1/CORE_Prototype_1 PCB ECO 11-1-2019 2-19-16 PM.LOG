@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=INT1 New Net Name=ICM_INT
+Change Net Name : Old Net Name=NetU2_20 New Net Name=SPI1.CS
+Change Net Name : Old Net Name=NetU2_21 New Net Name=SPI1.CLK
+Change Net Name : Old Net Name=NetU2_22 New Net Name=SPI1.MISO
+Change Net Name : Old Net Name=NetU2_23 New Net Name=SPI1.MOSI
+Change Net Name : Old Net Name=NetU2_38 New Net Name=IRQ
+Change Net Name : Old Net Name=NetU2_39 New Net Name=SPI2.CS
+Change Net Name : Old Net Name=NetU2_40 New Net Name=CE
+Change Net Name : Old Net Name=NetU2_51 New Net Name=SPI2.CLK
+Change Net Name : Old Net Name=NetU2_52 New Net Name=SPI2.MISO
+Change Net Name : Old Net Name=NetU2_53 New Net Name=SPI2.MOSI

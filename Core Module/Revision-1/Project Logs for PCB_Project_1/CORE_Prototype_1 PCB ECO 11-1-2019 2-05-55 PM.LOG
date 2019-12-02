@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=CLK New Net Name=nRF_SCK
+Change Net Name : Old Net Name=CS New Net Name=nRF_CSN
+Change Net Name : Old Net Name=MISO New Net Name=nRF_MISO
+Change Net Name : Old Net Name=MOSI New Net Name=nRF_MOSI
