@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=ICM_CLK New Net Name=CLK
+Change Net Name : Old Net Name=ICM_CS New Net Name=CS
+Change Net Name : Old Net Name=NetC11_2 New Net Name=REGOUT
+Change Net Name : Old Net Name=NetU2_44 New Net Name=INT1

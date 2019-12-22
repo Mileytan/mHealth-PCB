@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=1V8D Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=1V8D Pin=C10-2
+Removed Pin From Net: NetName=1V8D Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=C15-2
+Removed Pin From Net: NetName=3V3 Pin=C19-2
+Removed Pin From Net: NetName=3V3 Pin=C20-2
+Removed Pin From Net: NetName=1V8D Pin=L1-2
+Removed Pin From Net: NetName=SWCLK_4 Pin=P1-2
+Removed Pin From Net: NetName=TRACESWO_4 Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=1V8D Pin=R3-2
+Removed Pin From Net: NetName=1V8D Pin=R4-2
+Removed Pin From Net: NetName=1V8D Pin=R5-2
+Removed Pin From Net: NetName=1V8D Pin=U1-13
+Removed Pin From Net: NetName=3V3 Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-16
+Removed Pin From Net: NetName=UART_TX_4 Pin=U2-16
+Removed Pin From Net: NetName=UART_RX_4 Pin=U2-17
+Removed Pin From Net: NetName=3V3 Pin=U4-7
+Removed Pin From Net: NetName=3V3 Pin=U4-15
+Removed Pin From Net: NetName=3V3 Pin=U4-18
+Removed Pin From Net: NetName=1V8D Pin=U5-1
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=VUSB_4 Pin=U5-4
+Removed Pin From Net: NetName=VUSB_4 Pin=U5-5
+Removed Pin From Net: NetName=VUSB_4 Pin=U5-6
+Removed Pin From Net: NetName=GND Pin=U5-7
+Removed Member From Class: ClassName=U_MAIN_STM32L476RGT6 Member=U5
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X2-PINS New Footprint=MHDR1X4
+Change Component Footprint: Designator=U1 Old Footprint=MAXM-OESIP-22_V New Footprint=SOT95P285X145-6N
+Change Component Comment : Designator=P3 Old Comment=Header 2 New Comment=MHDR1X4
+Change Component Comment : Designator=U1 Old Comment=MAX86150EFF+ New Comment=AP7312-1833W6-7
+Change component parameters: Designator = "U1"; Footprint = "SOT95P285X145-6N"; UniqueID = "\ZZXWOJRT\PPTXQBRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/30477/0900766b8115c2c0-30477178.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/30477/0900766b8115c2c0-30477178.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/8078/1636610-8078247.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/8078/1636610-8078247.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/8239/ap7312-8239997.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/8239/ap7312-8239997.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output 1"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Output 2"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage"; Value = "150mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Diodes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "AP7312-1833W6-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "950mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Current Limit"; Value = "200mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Regulators"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "60uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage Accuracy"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "950mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "950mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "65dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.59000, 10=0.52100, 100=0.37100, 500=0.29994, 1000=0.22890 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "80uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Voltage"; Value = "800mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "17585"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "AP7312-1833W6-7DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Output 1"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Output 2"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.7mm"; VariantName = "[No Variations]"
+Added Component: Designator=P5(MHDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=1V8D Pin=C15-2
+Added Pin To Net: NetName=1V8D Pin=C19-2
+Added Pin To Net: NetName=1V8D Pin=C20-2
+Added Pin To Net: NetName=SWCLK_4 Pin=P1-4
+Added Pin To Net: NetName=TRACESWO_4 Pin=P1-6
+Added Pin To Net: NetName=SPI1.CS Pin=P3-1
+Added Pin To Net: NetName=SPI1.MISO Pin=P3-2
+Added Pin To Net: NetName=SPI1.MOSI Pin=P3-3
+Added Pin To Net: NetName=SPI1.CLK Pin=P3-4
+Added Pin To Net: NetName=SPI2.CLK Pin=P5-1
+Added Pin To Net: NetName=SPI2.MOSI Pin=P5-2
+Added Pin To Net: NetName=SPI2.MISO Pin=P5-3
+Added Pin To Net: NetName=SPI2.CS Pin=P5-4
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VUSB_4 Pin=U1-3
+Added Pin To Net: NetName=VUSB_4 Pin=U1-4
+Added Pin To Net: NetName=VUSB_4 Pin=U1-5
+Added Pin To Net: NetName=1V8D Pin=U1-6
+Added Pin To Net: NetName=UART_TX_4 Pin=U2-42
+Added Pin To Net: NetName=UART_RX_4 Pin=U2-43
+Added Pin To Net: NetName=1V8D Pin=U4-7
+Added Pin To Net: NetName=1V8D Pin=U4-15
+Added Pin To Net: NetName=1V8D Pin=U4-18
+Added Pin To Net: NetName=SWDIO_4 Pin=P1-2
+Added Pin To Net: NetName=SWDIO_4 Pin=U2-46
+Added Net: Name=SWDIO_4
+Added Member To Class: ClassName=U_ACC_ICM20948 Member=Component P3 MHDR1X4
+Added Member To Class: ClassName=U_RADIO_nRF24L01 Member=Component P5 MHDR1X4
+Added Member To Class: ClassName=U_MAIN_STM32L476RGT6 Member=Component U1 AP7312-1833W6-7

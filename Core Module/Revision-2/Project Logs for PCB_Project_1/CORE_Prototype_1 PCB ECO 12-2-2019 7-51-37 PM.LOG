@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3 Pin=P6-1
+Removed Pin From Net: NetName=I2C_SCL_4 Pin=P6-2
+Removed Pin From Net: NetName=I2C_SDA_4 Pin=P6-3
+Removed Member From Class: ClassName=U_MAIN_STM32L476RGT6 Member=P6
+Added Component: Designator=P?(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I2C_SDA_4 Pin=P?-1
+Added Pin To Net: NetName=I2C_SCL_4 Pin=P?-2
+Added Pin To Net: NetName=3V3 Pin=P?-3
+Added Member To Class: ClassName=U_MAIN_STM32L476RGT6 Member=Component P? Header 3
