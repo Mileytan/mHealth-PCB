@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=1V8D Pin=P1-1
+Removed Pin From Net: NetName=1V8D Pin=U2-1
+Removed Pin From Net: NetName=RESET_4 Pin=U2-7
+Removed Pin From Net: NetName=I2C_SCL_4 Pin=U2-8
+Removed Pin From Net: NetName=I2C_SDA_4 Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Pin From Net: NetName=1V8D Pin=U2-13
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=1V8D Pin=U2-19
+Removed Pin From Net: NetName=GND Pin=U2-31
+Removed Pin From Net: NetName=1V8D Pin=U2-32
+Removed Pin From Net: NetName=nRF_IRQ_4 Pin=U2-38
+Removed Pin From Net: NetName=nRF_CS_4 Pin=U2-39
+Removed Pin From Net: NetName=nRF_CE_4 Pin=U2-40
+Removed Pin From Net: NetName=UART_TX_4 Pin=U2-42
+Removed Pin From Net: NetName=UART_RX_4 Pin=U2-43
+Removed Pin From Net: NetName=SWDIO_4 Pin=U2-46
+Removed Pin From Net: NetName=GND Pin=U2-47
+Removed Pin From Net: NetName=1V8D Pin=U2-48
+Removed Pin From Net: NetName=SWCLK_4 Pin=U2-49
+Removed Pin From Net: NetName=nRF_CLK_4 Pin=U2-51
+Removed Pin From Net: NetName=nRF_MISO_4 Pin=U2-52
+Removed Pin From Net: NetName=nRF_MOSI_4 Pin=U2-53
+Removed Pin From Net: NetName=TRACESWO_4 Pin=U2-55
+Removed Pin From Net: NetName=GND Pin=U2-60
+Removed Pin From Net: NetName=GND Pin=U2-63
+Removed Pin From Net: NetName=1V8D Pin=U2-64
+Removed Pin From Net: NetName=1V8D Pin=U5-1
+Removed Pin From Net: NetName=1V8D Pin=U7-1
+Removed Member From Class: ClassName=U_MAIN_STM32L476RGT6 Member=U2
+Added Component: Designator=U?(STM-UFQFPN32_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00093332.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "32-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 5 x 5 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad 3.5 x 3.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "UFQFPN32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=3V3 Pin=U7-1
+Added Pin To Net: NetName=3V3 Pin=U?-1
+Added Pin To Net: NetName=I2C_SDA_4 Pin=U?-2
+Added Pin To Net: NetName=RESET_4 Pin=U?-4
+Added Pin To Net: NetName=3V3 Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=nRF_CE_4 Pin=U?-7
+Added Pin To Net: NetName=nRF_CS_4 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Pin To Net: NetName=3V3 Pin=U?-17
+Added Pin To Net: NetName=nRF_IRQ_4 Pin=U?-18
+Added Pin To Net: NetName=I2C_SCL_4 Pin=U?-19
+Added Pin To Net: NetName=SWDIO_4 Pin=U?-23
+Added Pin To Net: NetName=SWCLK_4 Pin=U?-24
+Added Pin To Net: NetName=nRF_CLK_4 Pin=U?-26
+Added Pin To Net: NetName=nRF_MISO_4 Pin=U?-27
+Added Pin To Net: NetName=nRF_MOSI_4 Pin=U?-28
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=GND Pin=U?-33
+Added Pin To Net: NetName=INT1 Pin=U?-13
+Added Net: Name=INT1
+Added Pin To Net: NetName=SPI_CLK Pin=P3-4
+Added Pin To Net: NetName=SPI_CLK Pin=U3-23
+Added Pin To Net: NetName=SPI_CLK Pin=U5-3
+Added Pin To Net: NetName=SPI_CLK Pin=U?-3
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_CS1 Pin=P3-1
+Added Pin To Net: NetName=SPI_CS1 Pin=U3-22
+Added Pin To Net: NetName=SPI_CS1 Pin=U?-11
+Added Net: Name=SPI_CS1
+Added Pin To Net: NetName=SPI_CS2_4 Pin=U5-4
+Added Pin To Net: NetName=SPI_CS2_4 Pin=U?-12
+Added Net: Name=SPI_CS2_4
+Added Pin To Net: NetName=SPI_IRQ2_4 Pin=U5-7
+Added Pin To Net: NetName=SPI_IRQ2_4 Pin=U?-14
+Added Net: Name=SPI_IRQ2_4
+Added Pin To Net: NetName=SPI_MISO Pin=P3-2
+Added Pin To Net: NetName=SPI_MISO Pin=U3-9
+Added Pin To Net: NetName=SPI_MISO Pin=U5-5
+Added Pin To Net: NetName=SPI_MISO Pin=U?-20
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=P3-3
+Added Pin To Net: NetName=SPI_MOSI Pin=U3-24
+Added Pin To Net: NetName=SPI_MOSI Pin=U5-6
+Added Pin To Net: NetName=SPI_MOSI Pin=U?-21
+Added Net: Name=SPI_MOSI
+Added Member To Class: ClassName=U_MAIN_STM32L476RGT6 Member=Component U? STM32F301K8U6

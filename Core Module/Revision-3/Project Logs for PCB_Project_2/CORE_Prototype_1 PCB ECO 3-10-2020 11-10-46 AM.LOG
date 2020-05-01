@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X2-PINS New Footprint=MHDR1X2
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X3-PINS New Footprint=MHDR1X3
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X4-PINS New Footprint=MHDR1X4
+Change Component Footprint: Designator=U5 Old Footprint=HDR1X7-PINS New Footprint=MHDR1X7
+Change Component Footprint: Designator=U7 Old Footprint=HDR1X8-PINS New Footprint=MHDR1X8

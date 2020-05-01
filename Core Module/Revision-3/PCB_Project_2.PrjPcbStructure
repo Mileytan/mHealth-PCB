@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=mHealth.SchDoc
+Record=SheetSymbol|SourceDocument=mHealth.SchDoc|Designator=U_ACC_ICM20948|SchDesignator=U_ACC_ICM20948|FileName=ACC_ICM20948.SchDoc|SymbolType=Normal|RawFileName=ACC_ICM20948.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mHealth.SchDoc|Designator=U_MAIN_STM32L476RGT6|SchDesignator=U_MAIN_STM32L476RGT6|FileName=MAIN_STM32L476RGT6.SchDoc|SymbolType=Normal|RawFileName=MAIN_STM32L476RGT6.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
